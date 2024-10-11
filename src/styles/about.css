@@ -1,0 +1,17 @@
+.about {
+    padding: 2rem;
+    background-color: white;
+    background-image: url('../assests/images/hero-background2.webp');
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .about-img {
+    border-radius: 50%;
+    width: 150px;
+    margin-right: 2rem;
+  }
+  
