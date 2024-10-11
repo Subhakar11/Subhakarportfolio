@@ -5,7 +5,7 @@ import profilePic from '../assests/images/profile.jpg';
 const About = () => {
   return (
     <section id="about" className="about">
-      <h2 className="projects-title"> About Me</h2>
+      <h2 > About Me</h2>
       <div className="about-content">
         <img src={profilePic} alt="Subhakar Maurya" className="about-img" />
         <p>
